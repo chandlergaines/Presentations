@@ -1,2 +1,2 @@
 # Presentations
-Hub for presentations I have done.
+Hub for presentations.
